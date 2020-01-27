@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Enggine
+comment1.params=
+comment1.target=void\ boxs()
+comment2.params=
+comment2.target=void\ AI()
+comment3.params=
+comment3.target=void\ ShowTimes()
+comment4.params=
+comment4.target=void\ showScore()
+comment5.params=
+comment5.target=void\ showLvl()
+comment6.params=
+comment6.target=void\ act()
+numComments=7

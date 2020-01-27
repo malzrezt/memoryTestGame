@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TheBox
+comment1.params=next
+comment1.target=TheBox(int)
+comment2.params=
+comment2.target=void\ flip()
+comment3.params=
+comment3.target=void\ unflip()
+comment4.params=
+comment4.target=void\ click()
+comment5.params=
+comment5.target=void\ act()
+numComments=6
