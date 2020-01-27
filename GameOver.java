@@ -11,8 +11,8 @@ public class GameOver extends Enggine
         // Create a new world with 600x400 cells with a cell size of 1x1 pixels.
        
         addObject(new GoToEnd(), getWidth()/2, getHeight()/2);
-        showText(Integer.toString(nilai[0]), getWidth()/2 - 140, getHeight()/2 + 145);
-        showText(Integer.toString(nilai[1]), getWidth()/2 + 140, getHeight()/2 + 145);
+        showText(Integer.toString(nilai[0]), getWidth()/2 - 140, getHeight()/2 + 135);
+        showText(Integer.toString(nilai[1]), getWidth()/2 + 140, getHeight()/2 + 135);
         if(nilai[1] >= 0 && nilai[1] <= 50){
             
             if(nilai[0] >= 0 && nilai[0] <= 10){

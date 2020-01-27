@@ -6,6 +6,6 @@ public class Menu extends World
     public Menu()
     {    
         
-         super(640, 480, 1);
+         super(950, 439, 1);
     }
 }

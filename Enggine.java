@@ -22,11 +22,11 @@ public class Enggine extends Core
           
            //Collections.shuffle(core.intList);
            int d=0;
-           for(int x=1; x<=4; x++){
+           for(int x=1; x<=3; x++){
                int n = 50;
-                for(int z=0; z<6; z++){
+                for(int z=0; z<8; z++){
                     
-                        addObject(core.cards.get(core.intList.get(d)),20 + n, 95  * x);
+                        addObject(core.cards.get(core.intList.get(d)),70 + n, 95  * x);
                         n = n + 100;
                         d = d + 1;
                     

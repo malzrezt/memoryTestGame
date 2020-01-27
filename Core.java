@@ -19,6 +19,6 @@ public class Core extends World
     public Core()
     {    
        // Greenfoot.setSpeed(55);
-        super(640, 480, 1); 
+        super(950, 439, 1); 
     }
 }
